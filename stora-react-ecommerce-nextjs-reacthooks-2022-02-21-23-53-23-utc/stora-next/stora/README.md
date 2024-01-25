@@ -1,30 +1,18 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+1. Vô documentation -> index.html : Đọc tài liệu & hiểu cấu trúc hoạt động
+2. Vô folder stora -> package.json check version react , next
+3. Mở Terminal hoặc cmd -> chạy ``` npm run dev ```hoặc ``` yarn install ```
+4. Sau khi hoàn thành chạy ``` npm run dev ``` hoặc ``` yarn dev ```
+5. Sau đó chạy " http://localhost:3000/ " 
 
 ## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## ScreenShot
+ ![image](https://user-images.githubusercontent.com/100074935/204440435-9eda4815-8dbb-4ace-85d3-6f006da1d24f.png)
+![image](https://user-images.githubusercontent.com/100074935/204440477-35fbb13b-581c-444f-ad57-8dfd0a4829f2.png)
+![image](https://user-images.githubusercontent.com/100074935/204440571-d8fa1017-4747-410d-831a-af21a0df2932.png)
+
 
 ## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
